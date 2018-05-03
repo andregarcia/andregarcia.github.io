@@ -1,2 +1,7 @@
 theme: jekyll-theme-slate
 markdown: kramdown
+name: 'Desenvolvedor Python - Andre Garcia'
+description: 'Bem vindo. Neste blog você encontrará posts sobre python, java, machine learning e análise de dados.'
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
