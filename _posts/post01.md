@@ -1,7 +1,6 @@
 ---
 title: Teste 01
 author: Andre Garcia
-layout: post
 ---
 
 
